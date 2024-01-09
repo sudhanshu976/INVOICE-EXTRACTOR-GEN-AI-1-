@@ -1,6 +1,4 @@
-Certainly! Below is a template for your README.md file. You can customize it further based on the specifics of your project.
 
-```markdown
 # Gemini Invoice Extractor
 
 Gemini Invoice Extractor is a Streamlit web application that uses the Gemini Pro Vision model to analyze and extract information from invoice images.
