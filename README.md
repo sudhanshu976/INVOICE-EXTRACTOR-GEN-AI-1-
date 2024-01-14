@@ -7,7 +7,7 @@ Gemini Invoice Extractor is a Streamlit web application that uses the Gemini Pro
 
 ### Prerequisites
 
-- Python 3.6 or higher
+- Python 3.10 or higher
 - [Streamlit](https://streamlit.io/)
 - [Google Generative AI](https://pypi.org/project/google-generativeai/)
 - [Pillow (PIL)](https://pillow.readthedocs.io/)
